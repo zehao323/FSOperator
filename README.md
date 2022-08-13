@@ -1,2 +1,2 @@
-# FSOpr
+# FSOperator
 Feature Selection Operator
